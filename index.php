@@ -7,7 +7,7 @@
   </head>
   <body>
 
-    <nav class="nav-pills nav-pills-default fixed">
+    <nav class="navbar navbar-default fixed">
  <div class="container-fluid">
    <!-- Brand and toggle get grouped for better mobile display -->
    <div class="navbar-header">
@@ -41,7 +41,7 @@
     <div class="row">
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src=""
+          <img src="">
         </div>
       </div>
       <div class="col-lg-4">
