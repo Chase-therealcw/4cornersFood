@@ -23,10 +23,10 @@
    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
      <ul class="nav navbar-nav">
        <!-- <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li> -->
-       <li><a href="Use Cases.php">Use Cases</a></li>
-       <li><a href="WireFrame.php">WireFrame</a></li>
-       <li><a href="Mission Statement.php">MIssion Statement</a></li>
-       <li><a href="E.R.D.php">E.R.D</a></li>
+       <li><a href="useCase.php">Use Cases</a></li>
+       <li><a href="wireFrame.php">WireFrame</a></li>
+       <li><a href="missionStatement.php">MIssion Statement</a></li>
+       <li><a href="ERD.php">E.R.D</a></li>
      </ul>
 </div><!-- /.navbar-collapse -->
 </div><!-- /.container-fluid -->
