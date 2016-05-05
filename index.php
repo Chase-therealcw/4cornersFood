@@ -37,7 +37,7 @@
   </div>
 
 
-<div class="container">
+<!--<div class="container">
     <div class="row">
       <div class="col-lg-4">
         <div class="thumbnail">
@@ -70,7 +70,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 
 </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>

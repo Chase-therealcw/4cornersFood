@@ -13,3 +13,7 @@
   .navbar-default {
     background: transparent;
   }
+
+body {
+  text-align: center;
+}
