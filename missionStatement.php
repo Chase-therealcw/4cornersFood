@@ -2,10 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>MissionStatement</title>
     <?php require_once("lib\head-utils.php");?>
   </head>
   <body>
+
     <nav class="navbar-default fixed">
  <div class="container-fluid">
    <!-- Brand and toggle get grouped for better mobile display -->
@@ -31,12 +32,15 @@
 </div><!-- /.container-fluid -->
 </nav>
 
-<div class="container">
-  <div class="jumbotron">
-    <h1>E.R.D</h1>
-  </div>
-</div>
-
-<img src="lib\Images\4cornersFoodERD.png" alt="lib\Images\4cornersFoodERD.png" />
+    <div class="container">
+      <div class="jumbotron">
+        <h2>Use Cases</h2>
+        <p>4 Corners Food.com is a indispenable tool for the locals or an out of town visitor
+      in the Farmington area in search of a place to dine and want a rating system of the
+      restaurants along with location and contact information. It's an immensely valuable
+      marketing and advertising medium for the restaurant owner.</p>
+            </div>
+          </div>
+        </div>
   </body>
 </html>

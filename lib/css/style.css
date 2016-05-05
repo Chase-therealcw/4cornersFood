@@ -20,3 +20,16 @@ body {
 .Home{
   font-size: 20px;
 }
+
+.navbar-collapse{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.row{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.thumbnail{
+  border: rgba(0, 0, 0, 0);
+}

@@ -39,7 +39,7 @@
     </div>
   </div>
 
-  <!-- <div class="row">
+  <div class="row">
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
         <img src="lib\Images\DSCN1145.JPG" alt="lib\Images\DSCN1145.JPG">
@@ -94,7 +94,7 @@
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
 
   </body>
 </html>
