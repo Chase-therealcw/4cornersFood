@@ -7,7 +7,7 @@
   </head>
   <body>
 
-    <nav class="nav-pills nav-pills-default fixed">
+    <nav class="navbar-default fixed">
  <div class="container-fluid">
    <!-- Brand and toggle get grouped for better mobile display -->
    <div class="navbar-header">
@@ -34,7 +34,7 @@
 
   <div class="container">
     <div class="jumbotron">
-      <h1>4CornersFood</h1>
+      <h1>4Corners Food</h1>
       <p>Welcome</p>
     </div>
   </div>
